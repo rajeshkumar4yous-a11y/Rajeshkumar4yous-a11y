@@ -1,31 +1,55 @@
-# Project Overview
-This project is an accessibility-focused initiative aimed at creating easily usable and accessible web applications for users of all abilities.
+# 👋 Hi, I'm Rajesh Kumar
 
-# Features
-- Comprehensive accessibility checks
-- User-friendly interface
-- Support for multiple languages
-- Regular updates and improvements
+🚀 **Professional Web Developer**
 
-# Installation
-To install this project, clone the repository and run the following command:
-```bash
-npm install
-```
+---
 
-# Usage
-Start the application with this command:
-```bash
-npm start
-```
+## 💼 About Me
 
-# Contributing Guidelines
-We welcome contributions! Here are the steps to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Make your changes and commit them.
-4. Push your branch to your forked repository.
-5. Create a pull request.
+I am Rajesh Kumar, a passionate and professional web developer with strong skills in building modern, scalable, and user-friendly web applications. I focus on creating high-performance solutions with clean UI/UX and efficient backend systems.
 
-# Contact Information
-For queries, please reach out to [Your Name] at [Your Email].
+---
+
+## 🛠️ Skills
+
+- 🌐 HTML5, CSS3, JavaScript
+- ⚛️ React.js
+- 🖥️ PHP & MySQL
+- 🔗 REST API Integration
+- 🎨 UI/UX Design
+- ⚙️ Git & GitHub
+
+---
+
+## 📌 What I Do
+
+- Build responsive and modern websites  
+- Develop full-stack web applications  
+- Create custom business solutions  
+- Optimize performance & SEO  
+
+---
+
+## 📈 Current Focus
+
+- Advanced Full Stack Development  
+- Building SaaS & Business Tools  
+- Improving UI/UX & Performance  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com  
+- 🌐 Portfolio: your-website-link.com  
+- 💼 LinkedIn: your-linkedin-profile  
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real-world digital products 🚀
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
