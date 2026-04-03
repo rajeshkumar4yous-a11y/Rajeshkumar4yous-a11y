@@ -40,10 +40,7 @@ I am Rajesh Kumar, a passionate and professional web developer with strong skill
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: your-website-link.com  
-- 💼 LinkedIn: your-linkedin-profile  
-
+- 📧 Email: your-email@example.com
 ---
 
 ## ⚡ Fun Fact
